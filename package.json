@@ -1,6 +1,6 @@
 {
   "name": "ngx-headway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an Angular library for using the Changelog service Headway, as a simple directive. ",
   "author": "Martin Aarhus Gregersen",
   "keywords": [
